@@ -6,11 +6,11 @@ source code for simple empoyee portal
 #first install java and node in your system the follow the steps
 
 command for building angular application
-ng build 
+emplyee-portal-app/ ng build 
 
 command for building spring boot
-mvn clean package
+emplyee-portal-app/ mvn clean package
 
 
-after building both app we have deploy it in JEE SERVER. below are the sreenshot of this app , Thanks
+after building both app we have to deploy it in JEE SERVER. below are the sreenshot of this app , Thanks
 
