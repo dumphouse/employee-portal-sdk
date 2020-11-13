@@ -3,10 +3,12 @@ source code for simple empoyee portal
 
 #how to run this application for that we have to build the ui and backend applicatiom
 
-command build angular application
+#first install java and node in your system the follow the steps
+
+command for building angular application
 ng build 
 
-command build spring boot
+command for building spring boot
 mvn clean package
 
 
